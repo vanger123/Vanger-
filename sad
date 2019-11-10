@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+   
+   <div id="header"> <h1>Vanger</h1>
+    <h3>Веб-разработчик</h3>
+    <p>
+      <a href="mailto:xx@yy.zz">mailto:xx@yy.zz</a>
+      <a href="https://repl.it/@vanger123">repl.it/@vanger123</a>
+    </p>
+    </div>
+   
+    <p>fpfpfpfpfpfpfpfDSADASDADASDADdfsafdsfasfasfafdsfvxcvfjghjtyuytr<br>utjbcbklbxlxbxbvbxlhbxbhbvxhbvjzbhfbjhdbfsbfhbdfjbdfjbdjfbjdfbjdbf<br>jdbfjbfbdfjdbfjhbdfjhdbfjdbfjhdbfjhdbfjhdbfhjb~!!</p>
+    <p>dsafregtrh.</p>
+   <div id="main"> <h2 align="left">Опыт работы</h2>
+    <h3 align="left">Майкрософт Россия</h3>
+    <p>Программист(стажировка), август 2020 - ноябрь 2020</p>
+      <li>работа на С#</li>
+      <li>Создание веб-сайта проэкта JDX</li>  
+<h3 align="left">ТОО «Винная Баня»</h3>
+<p>Веб-дизайн,август 2015 - ноябрь 2016</p>
+  <li>Вёрстка макетов</li>
+  <li>Поддержка сайтов</li> 
+  <li>Создание тем</li> 
+<h2>Образование</h2>
+  <h3>Гарвардский университет</h3>
+  <p>Информационные системы 2005-2010</p>
+  <h3>Хекслет</h3>
+  <p>Курсы по праграммированию</p>
+  <h2>Другие навыки и увлечения</h2>
+  <li>Хоккей на траве</li>
+  <li>Спортивное ходьба</li>
+  </div>
+
+    <div id="footer"><h3>Vanger</h3>
+    <p align="center">Ул.Металургов,12,Екатеринбург,Россия + 7 888 123 456 78,<a href="mailto:xx@yy.zz">mailto:xx@yy.zz</a></p>
+    </div>
+  </body>
+
+
+ 
+
+</html>
